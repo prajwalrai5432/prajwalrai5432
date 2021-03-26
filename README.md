@@ -9,7 +9,7 @@ Hi!, I'm Prajwal Rai, a pre-final year engineering student. Currently new to the
 
 - Making web apps using the MERN stack
 - Have good knowledge of Jest
-- Started with Flutter, if you want to work together in a project do reach out!
+- Started with React Native, if you want to work together in a project do reach out!
 - Mail: prajwalrai.5432@gmail.com
 
 <p align="center">
